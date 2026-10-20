@@ -6,7 +6,7 @@
 
 We make apps for Mac and iPhone. **lo.cafe Ltda.** is the company behind **NotchNook**, with projects including **lo-rain** and **Winston**.
 
-[Official website](https://locafe.app/) · [Company](https://locafe.app/company/) · [Our story](https://locafe.app/historia/)
+[Official website](https://locafe.app/) · [Company](https://locafe.app/company/) · [Our story](https://locafe.app/history/)
 
 ## Our apps
 
@@ -22,4 +22,4 @@ We make apps for Mac and iPhone. **lo.cafe Ltda.** is the company behind **Notch
 - General enquiries: **[hello@locafe.app](mailto:hello@locafe.app)**
 - Support: **[support@locafe.app](mailto:support@locafe.app)**
 
-Brazil · lo.cafe Ltda. · [Brand information](https://locafe.app/marcas/)
+Brazil · lo.cafe Ltda. · [Brand information](https://locafe.app/trademarks/)
