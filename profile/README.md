@@ -1,8 +1,6 @@
-<img src="https://github.com/lo-cafe-ltda.png" width="104" height="104" alt="lo.cafe">
+<a href="https://locafe.app/"><img src="https://github.com/lo-cafe-ltda.png" width="104" height="104" alt="lo.cafe"></a>
 
 # lo.cafe™
-
-<a href="https://locafe.app/"><img src="https://locafe.app/brand/lo-cafe-original-400.png" alt="lo.cafe" width="96" height="96"></a>
 
 We make apps for Mac and iPhone. **lo.cafe Ltda.** is the company behind **NotchNook**, with projects including **lo-rain** and **Winston**.
 
